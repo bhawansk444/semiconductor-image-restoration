@@ -4,7 +4,7 @@ AI-based semiconductor image restoration using SwinIR-M to reduce noise and reco
 
 The final trained SwinIR-M model is available here:
 
-[Download the trained model]([https://drive.google.com/drive/folders/1cSmbSoRNuzd-TH8A7gI_Zafd-D_57hYX?usp=drive_link](url))
+[Download the trained model]([link]([url](https://drive.google.com/drive/folders/1cSmbSoRNuzd-TH8A7gI_Zafd-D_57hYX?usp=drive_)))
 
 Model: `swinir_semiconductor_epoch50.pth`
 
